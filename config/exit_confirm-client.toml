@@ -1,0 +1,9 @@
+#Show close prompt.
+closePrompt = true
+#Show close prompt in-game.
+closePromptInGame = true
+#Show close prompt when pressing quit button.
+closePromptQuitButton = true
+#Show close prompt when pressing escape in title screen.
+closePromptTitleEsc = true
+

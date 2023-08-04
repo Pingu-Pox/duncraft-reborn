@@ -1,0 +1,16 @@
+{
+    "name": "Altar of Protection",
+    "icon": "cc:claim_block",
+    "category": "patchouli:claim_chunk_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "The best way you can protect your home is by placing Altars of Protection in each chunk you want to secure. You may have up to 6. To toggle chunk borders, press F3 + G. You can configure your protection by right-clicking the altar and adding the usernames of players who should have access to your belongings in that chunk. You can allow many players by using commas (like this: user1,user2,user3)."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "cc:claim_block"
+        }
+    ]
+}

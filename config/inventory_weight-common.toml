@@ -1,0 +1,10 @@
+
+#General Settings
+[general]
+	#How much weight is required to achieve the maximum penalty.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	maxWeight = 3000.0
+	#The default weight of an item that does not have a custom weight defined.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	defWeight = 1.0
+

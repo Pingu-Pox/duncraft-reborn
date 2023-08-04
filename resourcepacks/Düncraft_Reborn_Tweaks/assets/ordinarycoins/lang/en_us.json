@@ -1,0 +1,11 @@
+{
+  "item.ordinarycoins.diamond_coin": "Diamond Coin",
+  "item.ordinarycoins.netherite_coin": "Netherite Coin",
+  "item.ordinarycoins.zinc_coin": "Platinum Pillar",
+  "item.ordinarycoins.gold_coin": "Golden Anvil",
+  "itemGroup.tabordinary_coins": "Ordinary Coins",
+  "item.ordinarycoins.emerald_coin": "Emerald Coin",
+  "item.ordinarycoins.brass_coin": "Brass Coin",
+  "item.ordinarycoins.copper_coin": "Copper Ram",
+  "item.ordinarycoins.iron_coin": "Silver Shield"
+}

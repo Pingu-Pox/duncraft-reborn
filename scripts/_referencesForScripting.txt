@@ -1,0 +1,31 @@
+// Hide item from JEI
+mods.jei.JEI.hideIngredient(<item:modid:itemid>);
+
+// Remove specific recipe via it's name
+removeByName(String name);
+
+// Remove all crafting table recipes for entire mod
+craftingTable.removeByModid("modid");
+
+// Remove all crafting table recipes for a specific item
+craftingTable.remove(<item:modid:itemid>);
+
+// Add blastFurnace recipe
+blastFurnace.addRecipe("recipeName", <item:modid:output>, <tag/item:modid:input>, 1.0, 30);
+
+// Shapeless crafting table recipe
+craftingTable.addShapeless("recipe_name", <item:modid:outputItem> * quantity, [<item:modid:inputItem>]);
+
+// Shaped crafting table recipe
+craftingTable.addShaped("recipe_name", <item:modid:outputItem>, [
+    [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:modid:inputItem>, <item:minecraft:air>],
+    [<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]]);
+
+// Item tooltip (bottom of item box)
+import crafttweaker.api.item.tooltip.ITooltipFunction;
+<item:modid:itemid>.addTooltip("This is a tooltip");
+
+// Remove item from tag
+import crafttweaker.api.tag.MCTag; (might not be needed, test?)
+<tag:items:modid:itemid>.remove(<item:modid:itemid>);

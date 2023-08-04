@@ -1,0 +1,17 @@
+{
+    "name": "Locks and Keys",
+    "icon": "locksmith:blank_key",
+    "category": "patchouli:locksmith_category",
+    "sortnum": 0,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Protecting your belongings with a lock is simple, but effective. It's enough to deter any inexperienced thieves from attempting to access your possessions."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "locksmith:blank_lock",
+            "recipe2": "locksmith:blank_key"
+        }
+    ]
+}

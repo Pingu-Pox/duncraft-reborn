@@ -1,0 +1,22 @@
+{
+    "type": "origins:stacking_status_effect",
+    "min_stacks": 0,
+    "max_stacks": 2,
+    "duration_per_stack": 40,
+    "effects": [
+        {
+          "effect": "minecraft:night_vision",
+          "is_ambient": false,
+          "show_particles": false,
+          "show_icon": false,
+          "amplifier": 0
+        }
+    ],
+    "condition": {
+                "type": "origins:exposed_to_sky",
+                 "inverted": true
+        },
+    "name": "Adapted eyes",
+    "description": "Dwarves have eyes evolved specificly to combat the dark. You have nightvision when you are not under the sun."
+
+}

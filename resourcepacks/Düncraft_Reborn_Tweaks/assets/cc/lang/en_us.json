@@ -1,0 +1,17 @@
+{
+    "item.cc.claim_block": "Altar of Protection",
+    "block.cc.claim_block": "Altar of Protection",
+    "cc.lore.paper": "Rites of Runic Protection",
+    "cc.message.block.not_owner": "This land is protected under sacred rite",
+    "cc.message.block.access": "Warded Against Evil",
+    "cc.message.spawn": "This area is besmirched by incoming blasphemers",
+    "cc.message.claim_limit": "The gods can't abide another protective rite",
+    "cc.message.claim": "By order of divine right this land be consecrated",
+    "cc.message.unclaim": "This land is now deconsecrated",
+    "cc.message.claimed.chunk": "This land is consecrated already",
+    "cc.message.noclaims.you": "You have no consecrated lands",
+    "cc.message.noclaims": "Deconsecrated",
+    "cc.gui.access": "Access",
+    "cc.gui.modify": "Modify",
+    "cc.gui.enable": "Enable"
+}

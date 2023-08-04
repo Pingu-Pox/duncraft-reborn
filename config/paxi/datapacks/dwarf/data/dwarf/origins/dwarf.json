@@ -1,0 +1,13 @@
+{
+	"powers": [
+		"dwarf:mining",
+		"dwarf:stout",
+		"dwarf:mining_two",
+		"dwarf:health",
+		"dwarf:slow"
+	],
+	"icon": "minecraft:iron_pickaxe",
+	"impact": 2,
+	"name": "Dünir",
+	"description": "Stoic. Tradition. Forge. Most of the peoples from the old world would see a mountain and think nothing of it. The Dünir saw a defensible home where riches abound. The Dünir take immense pride in what they craft and what they build: fortifications that seem impregnable, warhammers that never break, or beautiful gems for their royalty are all in their repertoire. Don't be deceived by their stout stature. They're pound for pound the strongest warriors the world has ever known."
+}

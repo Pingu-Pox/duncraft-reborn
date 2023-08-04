@@ -1,0 +1,9 @@
+# Ignore directories
+logs/
+mods/
+saves/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+trees/
+servers.dat

@@ -1,0 +1,14 @@
+{
+  "messages": {
+    "deathMessages": [
+      "Adventure with your kin so someone will always have your back.",
+      "If that killed you, what are you gonna do against an orc?",
+      "One, Two, Three, Four, I see a dwarf who\u0027s on the floor!",
+      "At least they didn\u0027t get yer beard!",
+      "One too many drinks...",
+      "Not enough drinks...",
+      "You died."
+    ],
+    "enabled": true
+  }
+}

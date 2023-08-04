@@ -1,0 +1,27 @@
+enchantable_drinks = false
+
+[alcohol]
+	enable = true
+	can_always_drink = true
+	#Range: 0 ~ 72000
+	cooldown = 20
+
+[maturing]
+	enabled = true
+
+[grapes]
+	enabled = true
+
+	[grapes.structures]
+		#Range: 0 ~ 2048
+		wine_cellar_chance = 50
+		#Range: 0 ~ 2048
+		pub_chance = 5
+
+[compat]
+
+	[compat.toughasnails]
+		juice_emptying = true
+		juices_use_pure_water = true
+		pure_water = true
+

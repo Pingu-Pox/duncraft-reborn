@@ -1,0 +1,47 @@
+{
+  "bookGuiScale": 4,
+  "clickedVisualize": false,
+  "bookData": {
+    "littlelogistics:guide": {
+      "viewedEntries": [
+        "littlelogistics:auto_switch_rails",
+        "littlelogistics:steam_locomotive",
+        "littlelogistics:energy_locomotive",
+        "littlelogistics:spring"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "patchouli:home_security_book": {
+      "viewedEntries": [
+        "patchouli:test/test_entry",
+        "patchouli:test/locksmithing_table",
+        "patchouli:locksmithing_table",
+        "patchouli:blank_key",
+        "patchouli:crafting_keys",
+        "patchouli:crafting_locks",
+        "patchouli:applying_locks",
+        "patchouli:lockpicking_warning",
+        "patchouli:merging_keys_keyring",
+        "patchouli:crafting_altars_protection",
+        "patchouli:crafting_locks_keys"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    },
+    "runecraft:book_of_rune_magic": {
+      "viewedEntries": [
+        "runecraft:orbs-recipes",
+        "runecraft:basics-runes",
+        "runecraft:basics-rune_stones",
+        "runecraft:basics-altar",
+        "runecraft:basics-rune_scriber",
+        "runecraft:basics-portable_rune_stones",
+        "runecraft:misc-bundle",
+        "runecraft:misc-clothing"
+      ],
+      "bookmarks": [],
+      "completedManualQuests": []
+    }
+  }
+}

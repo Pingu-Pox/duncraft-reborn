@@ -1,0 +1,16 @@
+{
+    "name": "Beware of thieves...",
+    "icon": "locksmith:lockpick",
+    "category": "patchouli:locksmith_category",
+    "sortnum": 4,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "Just because you've slapped a lock on one of your belongings doesn't mean that it is safe from prying fingers. Rogueish-types have been known to use lockpicks to gain entry to what iron has failed to protect. If you find that your belongings are no longer protected by a lock, your possessions have been rummaged through."
+        },
+        {
+            "type": "patchouli:text",
+            "text": "This guide is not going to educate one how to perform such illicit activities. If you'd like to know how to protect against thievery, keep reading on..."
+        }
+    ]
+}

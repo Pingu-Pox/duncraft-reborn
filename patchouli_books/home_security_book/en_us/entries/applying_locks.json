@@ -1,0 +1,12 @@
+{
+    "name": "Using Locks and Keys",
+    "icon": "minecraft:chest",
+    "category": "patchouli:locksmith_category",
+    "sortnum": 3,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can protect the following blocks from being interacted with: doors, trapdoors, fence gates, barrels, and chests. To lock a block, simply hold a lock that has been paired with a key in your main hand, and then shift + right-click the block you want to lock."
+        }
+    ]
+}

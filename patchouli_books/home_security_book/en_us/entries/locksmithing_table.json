@@ -1,0 +1,16 @@
+{
+    "name": "Locksmithing Table",
+    "icon": "locksmith:locksmithing_table",
+    "category": "patchouli:locksmith_category",
+    "sortnum": 1,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You can pair blank keys and blank locks, duplicate keys, as well as pair a key to many locks by using this specialized table."
+        },
+        {
+            "type": "patchouli:crafting",
+            "recipe": "locksmith:locksmithing_table"
+        }
+    ]
+}

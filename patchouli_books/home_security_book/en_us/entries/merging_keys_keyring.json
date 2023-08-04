@@ -1,0 +1,17 @@
+{
+    "name": "Adding keys to a keyring",
+    "icon": "locksmith:keyring",
+    "category": "patchouli:locksmith_category",
+    "sortnum": 2,
+    "pages": [
+        {
+            "type": "patchouli:text",
+            "text": "You might find that you're carrying many keys that all secure a similar area. If you left-click a key, and then right-click another key, you will combine those keys into a new item, the keyring. It can be used to unlock any of the locks that it has keys for. This can be reversed simply by right-clicking the keyring."
+        },
+        {
+            "type": "patchouli:spotlight",
+            "item": "locksmith:keyring",
+            "text": "The item changes its look as you add more keys!"
+        }
+    ]
+}
